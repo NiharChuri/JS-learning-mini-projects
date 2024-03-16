@@ -1,0 +1,1 @@
+I've been wanting to learn JavaScript for some time now, so i made a repo to have a public archive of all my mini projects that i make during my learning process. Some of these are my own, some of them are made with the help of YouTube tutorials
