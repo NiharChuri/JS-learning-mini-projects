@@ -9,6 +9,9 @@ body{
     color: white;
     max-width: 500px;
     margin: auto;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px black;
+    padding: 10px;
 }
 #diceResult{
     margin-bottom: 25px;
@@ -40,10 +43,10 @@ button:active{
 footer{
     font-family: "Space Grotesk", sans-serif;
     color: white;
-    position: fixed; /* Change position to fixed */
-    bottom: 0; /* Position at the bottom */
+    position: fixed;
+    bottom: 0; 
     margin-bottom: 10px;
-    width: 100%; /* Occupy full width */
+    width: 100%;
     text-align: center;
-    font-size: x-large;
+    font-size: 20px;
 }
