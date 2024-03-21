@@ -1,0 +1,60 @@
+body{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: #212121;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    color: aqua;
+}
+form{
+    background-color: #505050;
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
+}
+#textBox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    font-family: "Space Grotesk", sans-serif;
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+button{
+    margin-top: 15px;
+    font-size: 2rem;
+    font-family: "Space Grotesk", sans-serif;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(127, 223, 255);
+}
+button:active{
+    background-color: aqua;
+}
+p{
+    font-size: 3em;
+    font-weight: bolder;
+}
+footer{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
